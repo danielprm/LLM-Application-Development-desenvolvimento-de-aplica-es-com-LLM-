@@ -23,6 +23,7 @@ Prompt Engineering e "Cicatrizes" (Experimentos)
 Nesta seção estão documentadas as perguntas estratégicas, prompts testados e o aprendizado obtido durante as interações com IA.
 
 Prompt: como fazer a criação de uma llm com apenas o contexto e voltada para os dados da minha empresa?
+
 Resposta: Para criar uma solução de Inteligência Artificial voltada para os dados da sua empresa utilizando apenas o contexto e sem a necessidade de treinar um modelo do zero, a abordagem recomendada é a Geração Aumentada por Recuperação (RAG - Retrieval-Augmented Generation)
 . Diferente do Fine-Tuning, que altera os pesos internos do modelo, o RAG funciona como um sistema de "livro aberto", onde o modelo consulta documentos específicos para responder a cada pergunta
 .
