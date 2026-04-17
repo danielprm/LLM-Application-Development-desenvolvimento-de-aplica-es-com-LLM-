@@ -59,7 +59,7 @@ Abaixo estão alguns prompts que testei e o que aprendi com cada um.
 
 ---
 
-## 🔎 Prompt 1 — Criar uma LLM voltada para os dados da empresa
+## Prompt 1 — Criar uma LLM voltada para os dados da empresa
 
 ### Pergunta
 > Como fazer a criação de uma LLM com apenas o contexto e voltada para os dados da minha empresa?
@@ -84,7 +84,7 @@ Mesmo entendendo o fluxo, ficou claro que a parte mais crítica é definir chunk
 
 ---
 
-## 🤖 Prompt 2 — Como usar IA para criar chatbots
+## Prompt 2 — Como usar IA para criar chatbots
 
 ### Pergunta
 > Como utilizar a IA para criar chatbots?
@@ -114,7 +114,7 @@ Percebi que, sem memória, o chatbot perde credibilidade rápido, porque ele “
 
 ---
 
-## 🧠 Prompt 3 — Como manter o histórico da conversa
+## Prompt 3 — Como manter o histórico da conversa
 
 ### Pergunta
 > Como garantir que o chatbot mantenha o histórico da conversa?
