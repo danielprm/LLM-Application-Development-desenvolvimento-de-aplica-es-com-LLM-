@@ -19,8 +19,7 @@ Build a SQL agent - Docs by LangChain — https://docs.langchain.com/oss/python/
 Experiment with 5 Chunking Strategies via LangChain for LLM - Zilliz blog — https://zilliz.com/blog/experimenting-with-different-chunking-strategies-via-langchain
 
 
-Prompt Engineering e "Cicatrizes" (Experimentos)
-Nesta seção estão documentadas as perguntas estratégicas, prompts testados e o aprendizado obtido durante as interações com IA.
+prompts testados e o aprendizado obtido durante as interações com IA.
 
 Prompt: como fazer a criação de uma llm com apenas o contexto e voltada para os dados da minha empresa?
 
