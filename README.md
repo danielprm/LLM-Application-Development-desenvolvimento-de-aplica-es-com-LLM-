@@ -1,0 +1,2 @@
+# LLM-Application-Development-desenvolvimento-de-aplica-es-com-LLM-
+Repositório com projetos e experimentos voltados para LLM Application Development, incluindo pipelines de RAG, prompt engineering, bancos vetoriais e fluxos de agentes usando LangChain e LangGraph. O objetivo é construir aplicações de IA escaláveis integrando dados estruturados, fontes externas de conhecimento e raciocínio com LLMs.
